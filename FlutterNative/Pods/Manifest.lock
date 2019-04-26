@@ -1,0 +1,44 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_boost (0.0.1):
+    - Flutter
+    - xservice_kit
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+    - flutter_boost
+    - xservice_kit
+  - Masonry (1.1.0)
+  - xservice_kit (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `/Users/cui/Desktop/FlutterDemo/FlutterNative/.flutter_release/Flutter`)
+  - flutter_boost (from `/Users/cui/Desktop/FlutterDemo/FlutterNative/.flutter_release/flutter_boost`)
+  - FlutterPluginRegistrant (from `/Users/cui/Desktop/FlutterDemo/FlutterNative/.flutter_release/FlutterPluginRegistrant`)
+  - Masonry
+  - xservice_kit (from `/Users/cui/Desktop/FlutterDemo/FlutterNative/.flutter_release/xservice_kit`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "/Users/cui/Desktop/FlutterDemo/FlutterNative/.flutter_release/Flutter"
+  flutter_boost:
+    :path: "/Users/cui/Desktop/FlutterDemo/FlutterNative/.flutter_release/flutter_boost"
+  FlutterPluginRegistrant:
+    :path: "/Users/cui/Desktop/FlutterDemo/FlutterNative/.flutter_release/FlutterPluginRegistrant"
+  xservice_kit:
+    :path: "/Users/cui/Desktop/FlutterDemo/FlutterNative/.flutter_release/xservice_kit"
+
+SPEC CHECKSUMS:
+  Flutter: 7d75bb6a8a2163929c7bf033f1f34ed5377b003c
+  flutter_boost: 0e85ea37c74ed39ee7b91a35612afa1605557484
+  FlutterPluginRegistrant: 9dbbc291227f61f9b5d37f4dc414c99227006dd7
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  xservice_kit: a2f1b35addc126fce8687aeb183ab0c1ada5b7f3
+
+PODFILE CHECKSUM: a4019343d85fd7a115ad62093d64fb92e2d5f711
+
+COCOAPODS: 1.6.1

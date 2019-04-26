@@ -1,0 +1,1 @@
+../../../../.flutter_release/xservice_kit/Classes/Service/FlutterServiceTemplate.h

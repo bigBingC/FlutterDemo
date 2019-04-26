@@ -1,0 +1,1 @@
+../../../../.flutter_release/FlutterPluginRegistrant/Classes/GeneratedPluginRegistrant.h
